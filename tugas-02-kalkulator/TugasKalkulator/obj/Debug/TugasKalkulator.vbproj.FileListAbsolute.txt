@@ -1,0 +1,10 @@
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.exe.config
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.exe
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.pdb
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\bin\Debug\TugasKalkulator.xml
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.Form1.resources
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.Resources.resources
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.vbproj.GenerateResource.Cache
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.exe
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.xml
+c:\users\clala\documents\visual studio 2012\Projects\TugasKalkulator\TugasKalkulator\obj\Debug\TugasKalkulator.pdb
